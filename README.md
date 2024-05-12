@@ -9,7 +9,7 @@
 - https://www.udemy.com/user/nelio-alves
 
 
-# Checklist baixar e executar projeto pronto
+# Tecnologias e Dependências do Projeto
 
 - JDK 11
 - Spring Boot 2.3.4
